@@ -2,8 +2,8 @@
 
 · 쓰인 언어 HTML, CSS
 
-· 처음 html과 css를 접해보았다. python과 c,cpp만 한 나에게는 조금 신세계였다.
-· 직접적으로 눈으로 보여지는 output효과들이 너무 마음에 들었다.
+· 처음 html과 css를 접해보았다. python과 c,cpp만 한 나에게는 조금 신세계였다. <br>
+· 직접적으로 눈으로 보여지는 output효과들이 너무 마음에 들었다.<br>
 꼭 프론트엔드 개발자로 거듭날것이다. 꼭
 
 ![image](https://user-images.githubusercontent.com/103891387/171326891-1b3addf0-ac50-432b-84c5-0ef3189a6665.png)
